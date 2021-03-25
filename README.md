@@ -1,8 +1,10 @@
 # Bus5100-93_Group_6
 
-Avocado Story created with SAC included in PDF form
+Hass Avocado Board Dataset included as CSV file
 
-Powerpoint Presentation included in PDF form 
+Avocado Story created with SAC included as PDF file
+
+Powerpoint Presentation included as PDF file 
 
 Predictive Model Regression Analysis in SAC - https://higher-education.us10.sapanalytics.cloud/sap/fpa/ui/app.html#;view_id=smartPredict;scenarioId=2787
 
