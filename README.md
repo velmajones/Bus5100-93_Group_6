@@ -6,6 +6,8 @@ Avocado Story in SAC - https://higher-education.us10.sapanalytics.cloud/sap/fpa/
 
 Predictive Model Regression Analysis in SAC - https://higher-education.us10.sapanalytics.cloud/sap/fpa/ui/app.html#;view_id=smartPredict;scenarioId=2787
 
+Figure 6 Total Volume Purchased By Geography Geo-Map - https://higher-education.us10.sapanalytics.cloud/sap/fpa/ui/app.html#;view_id=story;storyId=B6F2EB03635BEAD4220F09DA080EFF32;forceOpenView=true
+
 Powerpoint Presentation included here as PDF file 
 
 Avocado Story also included here as PDF file
